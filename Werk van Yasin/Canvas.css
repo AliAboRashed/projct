@@ -123,14 +123,8 @@ h1{
     font-size: 36px;
     font-weight: 600;
 }
-p{
-    color: #777;
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 22px;
-    padding: 10px;
 
-}
+
 .row{ 
     margin: 5%;
     display: flex;
@@ -144,10 +138,7 @@ p{
     padding: 20px 12px;
     box-sizing: border-box;
 }
-.h3{
-    text-align: center;
-    font-weight: 600;
-    margin: 10px 0;
+
 }
 .col:hover{
     box-shadow:0 0 20px 0px rgba(0,0,0,2);
@@ -187,25 +178,12 @@ p{
 .layer:hover{
     background: rgba(226,0,0,0.7);
 }
-.layer h3{
-    width: 100%;
-    font-weight: 500;
-    font-size: 24px;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    position: absolute;
-    color: rgb(0, 0, 0);
-    opacity: 0;
-    transition: 0,5s;
+h1{
+display: flex;
+align-items: center;
 }
-.layer:hover h3{
-    bottom: 49%;
-    opacity: 1;
-}
-.faciliteiten{
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 100px;
+
+#foto4{
+display: flex;
+margin-left: 900px;
 }
