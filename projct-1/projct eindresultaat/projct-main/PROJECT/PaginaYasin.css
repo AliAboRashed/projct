@@ -130,9 +130,11 @@ h2 {
 }
 
 p{
-    font-size: 15px;
+    font-size: 18px;
     margin: 10px 0;
     text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 img{
     display: block;
