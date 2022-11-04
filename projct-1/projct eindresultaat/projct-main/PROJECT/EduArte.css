@@ -147,3 +147,10 @@ background-color: white;
 height: 10vh;
 width: 100%;
 }
+video{
+display: flex;
+height: 60vh;
+align-items: center;
+justify-content: center;
+margin-left: 340px;
+}
